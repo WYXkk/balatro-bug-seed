@@ -1,0 +1,176 @@
+In prefix length 3:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 13 threshold hits
+Length 6 buggy seeds: [None], with 547 threshold hits
+Length 7 buggy seeds: [None], with 18261 threshold hits
+Length 8 buggy seeds: T6MZ14AK 5KNXVDPO , with 644463 threshold hits
+
+---------------------------------
+In prefix length 4:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 22 threshold hits
+Length 6 buggy seeds: [None], with 531 threshold hits
+Length 7 buggy seeds: [None], with 18306 threshold hits
+Length 8 buggy seeds: WDLP9XTR , with 644415 threshold hits
+
+---------------------------------
+In prefix length 5:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 14 threshold hits
+Length 6 buggy seeds: [None], with 527 threshold hits
+Length 7 buggy seeds: [None], with 18405 threshold hits
+Length 8 buggy seeds: N6MP5S61 J4N3VFA7 26H7PDMP , with 642510 threshold hits
+
+---------------------------------
+In prefix length 6:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 16 threshold hits
+Length 6 buggy seeds: [None], with 545 threshold hits
+Length 7 buggy seeds: [None], with 18258 threshold hits
+Length 8 buggy seeds: Y4LX2ZTW , with 643506 threshold hits
+
+---------------------------------
+In prefix length 7:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 14 threshold hits
+Length 6 buggy seeds: [None], with 530 threshold hits
+Length 7 buggy seeds: [None], with 18603 threshold hits
+Length 8 buggy seeds: XEQH7CP9 , with 642929 threshold hits
+
+---------------------------------
+In prefix length 8:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 16 threshold hits
+Length 6 buggy seeds: [None], with 512 threshold hits
+Length 7 buggy seeds: [None], with 18117 threshold hits
+Length 8 buggy seeds: XNGD66S1 AR3PO8ZY , with 643449 threshold hits
+
+---------------------------------
+In prefix length 9:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 10 threshold hits
+Length 4 buggy seeds: [None], with 462 threshold hits
+Length 5 buggy seeds: [None], with 14893 threshold hits
+Length 6 buggy seeds: [None], with 525454 threshold hits
+Length 7 buggy seeds: [None], with 18380149 threshold hits
+Length 8 buggy seeds: VOCX6LD7 , with 643304107 threshold hits
+
+---------------------------------
+In prefix length 10:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 10 threshold hits
+Length 6 buggy seeds: [None], with 532 threshold hits
+Length 7 buggy seeds: [None], with 18394 threshold hits
+Length 8 buggy seeds: MIPK41M6 , with 643689 threshold hits
+
+---------------------------------
+In prefix length 11:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 1 threshold hits
+Length 3 buggy seeds: [None], with 21 threshold hits
+Length 4 buggy seeds: [None], with 434 threshold hits
+Length 5 buggy seeds: [None], with 14939 threshold hits
+Length 6 buggy seeds: [None], with 524289 threshold hits
+Length 7 buggy seeds: [None], with 18387320 threshold hits
+Length 8 buggy seeds: [None], with 643453605 threshold hits
+
+---------------------------------
+In prefix length 12:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 12 threshold hits
+Length 6 buggy seeds: [None], with 473 threshold hits
+Length 7 buggy seeds: [None], with 18427 threshold hits
+Length 8 buggy seeds: A2POBO78 , with 642974 threshold hits
+
+---------------------------------
+In prefix length 13:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 13 threshold hits
+Length 6 buggy seeds: [None], with 496 threshold hits
+Length 7 buggy seeds: [None], with 18283 threshold hits
+Length 8 buggy seeds: K99F4X7M 1ZJ33G33 JJAEM9CP , with 644308 threshold hits
+
+---------------------------------
+In prefix length 14:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 2 threshold hits
+Length 5 buggy seeds: [None], with 15 threshold hits
+Length 6 buggy seeds: [None], with 534 threshold hits
+Length 7 buggy seeds: [None], with 18560 threshold hits
+Length 8 buggy seeds: VUR3SWYC , with 642479 threshold hits
+
+---------------------------------
+In prefix length 15:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 18 threshold hits
+Length 6 buggy seeds: [None], with 515 threshold hits
+Length 7 buggy seeds: [None], with 18343 threshold hits
+Length 8 buggy seeds: 9M63EB1H , with 644062 threshold hits
+
+---------------------------------
+In prefix length 16:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 22 threshold hits
+Length 6 buggy seeds: [None], with 540 threshold hits
+Length 7 buggy seeds: [None], with 18403 threshold hits
+Length 8 buggy seeds: QV1LTNYQ FAJ8UPYL , with 643403 threshold hits
+
+---------------------------------
+In prefix length 17:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 1 threshold hits
+Length 4 buggy seeds: [None], with 0 threshold hits
+Length 5 buggy seeds: [None], with 15 threshold hits
+Length 6 buggy seeds: [None], with 532 threshold hits
+Length 7 buggy seeds: [None], with 18252 threshold hits
+Length 8 buggy seeds: 5Y7KZDF7 KGHTNPEQ , with 645014 threshold hits
+
+---------------------------------
+In prefix length 18:
+Length 1 buggy seeds: [None], with 0 threshold hits
+Length 2 buggy seeds: [None], with 0 threshold hits
+Length 3 buggy seeds: [None], with 0 threshold hits
+Length 4 buggy seeds: [None], with 1 threshold hits
+Length 5 buggy seeds: [None], with 15 threshold hits
+Length 6 buggy seeds: [None], with 490 threshold hits
+Length 7 buggy seeds: [None], with 18329 threshold hits
+Length 8 buggy seeds: 9M1FF1NW J1663VCL , with 642144 threshold hits
+
+---------------------------------
